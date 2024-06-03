@@ -12,5 +12,10 @@ Mensaje de prueba editado en GitHub
 ### Nuevos cambios hechos ahora
 Cambios nuevos para el proyecto
 
+<<<<<<< HEAD
 ### Nuevos cambios hechos aca en VSC Main
 Cambios hechos desde main
+=======
+### Nuevos cambios hechos aca en GitHub para causar conflicto
+Cambios hechos desde GitHub (mala practica)
+>>>>>>> c913c6802747f51feb68cfb4a3512e3d4816011d
