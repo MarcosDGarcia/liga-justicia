@@ -11,3 +11,6 @@ Mensaje de prueba editado en GitHub
 
 ### Nuevos cambios hechos ahora
 Cambios nuevos para el proyecto
+
+### Nuevos cambios hechos aca en VSC Main
+Cambios hechos desde main
